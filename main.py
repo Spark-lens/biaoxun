@@ -7,10 +7,7 @@ import random
 import subprocess
 import sys
 import re
-import requests
-import json
 import time
-import urllib3
 import pandas as pd
 
 # 自动安装 py7zr（用于 7z 格式压缩）
