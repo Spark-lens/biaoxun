@@ -1,1 +1,23 @@
+# 环境变量
 .env
+
+# 招标文件
+招标文件包_*/
+bid_data_*/
+
+# 压缩包文件
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.xz
+
+# 表格文件
+*.xls
+*.xlsx
+*.xlsm
+*.csv
+*.tsv
