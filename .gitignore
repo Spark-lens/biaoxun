@@ -24,3 +24,6 @@ bid_data_*/
 *.xlsm
 *.csv
 *.tsv
+
+# 其他文件
+服务器密码*
